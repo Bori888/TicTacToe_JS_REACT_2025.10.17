@@ -23,9 +23,9 @@ function App() {
     //1. el mentem az aktuális állapotot
     //2. modositom az element változot
     //3. frissitem a steat uj értéket
-    //--------------------------------------------------------------  lista
+ //--------------------------------------------------------------állapot
     const sl = [...lista]
-    //--------------------------------------------------------------állapot
+    
     sl[index] = allapot
     let sa = allapot
     if (allapot === "x") {

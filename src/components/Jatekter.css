@@ -1,0 +1,14 @@
+.Jatekter {
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw;
+    grid-template-rows: 20vw 20vw 20vw;
+    gap: 1vw;
+    width: 62vw;
+    margin: auto;
+}
+
+.Elem {
+    font-size: 13vw;
+    border: 3px solid black;
+    
+}
